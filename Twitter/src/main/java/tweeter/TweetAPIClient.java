@@ -1,4 +1,4 @@
-package tweet;
+package tweeter;
 
 import base.CommonAPI;
 import io.restassured.response.ValidatableResponse;

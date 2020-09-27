@@ -5,7 +5,7 @@
 
     <test name="Twitter">
         <classes>
-            <class name="tweet.TweetAPIClientTest"></class>
+            <class name="tweeter.TweetAPIClientTest"></class>
         </classes>
 
     </test>
